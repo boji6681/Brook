@@ -5,7 +5,7 @@ export PATH
 #=================================================
 #	System Required: CentOS/Debian/Ubuntu
 #	Description: Brook
-#	Version: 1.0.5
+#	Version: 1.0.6
 #	Author: Toyo
 #	Telegram：https://t.me/bojiiking
 #=================================================
